@@ -5,10 +5,7 @@
 
 #pragma comment(lib, "wsock32.lib")
 
-
-#define STUDENT_NUMBER    "18020363"
-
-#define IP_ADDRESS_SERVER "127.0.0.1"
+#define IP_ADDRESS_SERVER "IP_Address"
 
 #define PORT_SERVER 0x1984 // We define a port that we are going to use.
 #define PORT_CLIENT 0x1985 // We define a port that we are going to use.
